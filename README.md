@@ -1,4 +1,4 @@
-##  config.def.h
+##  `config.def.h`
 ```shell
 X11INC = /usr/include/X11
 X11LIB = /usr/include/X11
@@ -19,4 +19,7 @@ patch -R < <patch name>.diff
 patch < <patch name>.diff
 ```
 
+##  bug
+Show result of translation on screen
 
+Use `control+p` to open the `dmenu` and can Use again to close the `dmenu`
